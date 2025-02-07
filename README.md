@@ -1,7 +1,13 @@
 
 <!-- Dynamic Quotes -->
+<!--
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+-->
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
 </div>
 
 <h1 align="center">
@@ -25,9 +31,9 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:ragulpalanisamy1001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+ <a href="mailto:ragulpalanisamy1001@gmail.com?subject=Hello%20from%20GitHub!&body=Hi%20Ragul,%20I%20saw%20your%20GitHub%20profile...">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://linkedin.com/in/ragul-palanisamy-139346194" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
